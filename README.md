@@ -58,6 +58,13 @@ sh run.sh
 7. Whether the system identified the face successfully or not, the system will go back to 3.
 
 
+## Switch the extraction model 
+
+1. Place the caffemodel under caffe/models/face_id/
+
+2. Change the command in "run.sh"
+
+####EX  ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_mobilenet_without_mirror_train_iter_220000.caffemodel /home/pi/caffe/models/face_id/val.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
 
 ## Results
 
