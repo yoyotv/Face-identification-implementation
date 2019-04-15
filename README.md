@@ -40,7 +40,9 @@ You have to install
 
 1. First of all, run
 
-```sh run.sh```
+```
+sh run.sh
+```
 
 ## Results
 
