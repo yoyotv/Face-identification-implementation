@@ -53,7 +53,7 @@ sh run.sh
 
 6. If the system identified the face successfully, the log in information and the face will be recorded into log.txt and fold "Record", respectively.
 
-7. Whether the system identified the face successfully or not, the system will go back to 1.
+7. Whether the system identified the face successfully or not, the system will go back to 3.
 
 
 
