@@ -74,8 +74,7 @@ into
 
 * If you change the model, remember the dimension of feature might be changed. In this repository, the model is mobilenet_v1 with alpha=0.25, so the dimension will be 256.
 
-* Open evaluate.cpp and modify the variable "feature_dim" at line 14.
-
+* Open evaluate.cpp and modify the variable "feature_dim" and variable "model" at line 14,15, respectively.
 
 ## Add new data into database
 
