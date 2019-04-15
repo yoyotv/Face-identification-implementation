@@ -38,9 +38,7 @@ You have to install
 
 ## Tutorial
 
-```
-sh run.sh
-```
+1. First of all, run ```sh run.sh```
 
 ## Results
 
