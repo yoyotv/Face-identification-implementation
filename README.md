@@ -38,7 +38,7 @@ You have to install
 
 ## Tutorial
 
-Just one command, we can enjoy the face identification system
+We can enjoy the face identification system in just one command!
 
 1. First of all, run
 
