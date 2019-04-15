@@ -38,6 +38,8 @@ You have to install
 
 ## Tutorial
 
+Just one command, we can enjoy the face identification system
+
 1. First of all, run
 
 ```
