@@ -84,10 +84,13 @@ into
 
 ## Example for Switch the extraction model and Add new data into database
 
-1. I wanna change the model to Resnet_50.caffe.model and store the feature of somenoe which extracted from Resnet50 as the database
+1. I wanna change the model to [Resnet_50](https://github.com/KaimingHe/deep-residual-networks/blob/master/prototxt/ResNet-50-deploy.prototxt) and store the feature of somenoe which extracted from Resnet50 as the database
 
+2. Changed the command of line 14 in run.sh to ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_Resnet_50.caffemodel /home/pi/caffe/models/face_id/val.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
+ 
+3. Place the Resnet_50.caffemodel under caffe/models/face_id/
 
-I wanna test the Resnet_50, so first of all, I changed the command into ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_Resnet_50.caffemodel /home/pi/caffe/models/face_id/val.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
+4. Open evaluate.cpp and modify the variable "feature_dim" and "model" to 2048 and "Resnet_50", respectively.
 
 
 
