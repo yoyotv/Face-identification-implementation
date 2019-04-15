@@ -94,3 +94,5 @@ into
 4. Open evaluate.cpp and modify the variable "feature_dim" and "model" to 2048 and "Resnet_50", respectively.
 
 ## Demo
+
+https://youtu.be/b5_Cw5E8aCk
