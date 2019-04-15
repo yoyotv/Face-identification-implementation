@@ -43,6 +43,19 @@ You have to install
 ```
 sh run.sh
 ```
+2. Shell will compile evaluate.cpp and detect.cpp, after that it will create two folders named Record and Current, respectively.
+
+3. Shell then enable the detect application, the detected face will be store at folder "Current".
+
+4. Caffe engine reads the face and extracts the feature then store it at caffe/models/face_id/features.
+
+5. Evaluate application compare the L2 distance between the database and the feature.
+
+6. If the system identified the face successfully, the log in information and the face will be recorded into log.txt and fold "Record", respectively.
+
+7. Whether the system identified the face successfully or not, the system will go back to 1.
+
+
 
 ## Results
 
