@@ -76,6 +76,8 @@ into
 
 * Open evaluate.cpp and modify the variable "feature_dim" and variable "model" at line 14,15, respectively.
 
+* The name of variable "model" in evaluate.cpp refer to the folder name in folder database, if the dimension has changed because of the caffemodel, the database will also be changed. How to add new data into database or generate database will be mentioned in "Add new data into database"
+
 ## Add new data into database
 
 1. 
