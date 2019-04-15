@@ -95,6 +95,6 @@ into
 
 ## Demo
 
-* The performance of model "mobilenet_0.25" is not good, it is trained by [CASIA-webface](https://arxiv.org/pdf/1411.7923.pdf). The top-1 accurancy is only 72%.
+* The performance of model "mobilenet_0.25" is not good, it is trained by [CASIA-webface](https://arxiv.org/pdf/1411.7923.pdf). The top-1 accurancy is only 72%. In the demo video, the L2 distance between different database face is closed. 
 
 https://youtu.be/b5_Cw5E8aCk
