@@ -10,7 +10,6 @@ Combined with the c++ in order to implement an application on Raspberry-pi to id
 It is able to switch the model to increase the performance. e.g. Resnet, Mobilenet.
 
 Here is the flow chart.
-<div align="center">
    <img src="https://raw.githubusercontent.com/yoyotv/Raspberry/master/pictures/flow_chart.jpg" >
   
 ## GET started
