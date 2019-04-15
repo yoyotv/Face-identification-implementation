@@ -21,7 +21,13 @@ You have to install
 
 2.  [Caffe](https://caffe.berkeleyvision.org/) for extracting the feature. There is a good step by step [tutorial](https://github.com/leo2105/Caffe-installation-Raspberry-Pi-3)  to install caffe on Raspberry by leo2105
 
-## Tutorial
+## Installation
+
+1. Clone the repository
+  ```Shell
+  # Make sure to clone with --recursive
+  git clone --recursive https://github.com/yoyotv/Raspberry.git
+  ```
 
 
 
