@@ -80,7 +80,7 @@ into
 
 ## Add new data into database
 
-1. 
+1. Take the feature which is under /caffe/models/face_id/features, the feature is the last face picture that system take. If you wanna add new data into database, just enable the system and let system take a photo and copy the pool6.txt which is the feature file under Face_identification_Raspberry_pi/database/your_model_name/
 
 ## Results
 
