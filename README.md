@@ -100,3 +100,9 @@ into
 * The L2 distance will be more significant if change the model to e.g. Resnet.
   
 * https://youtu.be/b5_Cw5E8aCk
+
+## Anything else?
+
+* Train more models to play.
+
+* Train the model with AM-softmax so that we could evaluate the angle between faces to identify person.
