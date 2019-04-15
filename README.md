@@ -78,14 +78,11 @@ into
 
 * The name of variable "model" in evaluate.cpp refer to the folder name in folder database, if the dimension has changed because of the caffemodel, the database will also be changed. How to add new data into database or generate database will be mentioned in "Add new data into database"
 
-* e.g. 
-*1. I wanna test the Resnet_50, so first of all, I changed the command into ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_Resnet_50.caffemodel /home/pi/caffe/models/face_id/val.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
-
 ## Add new data into database
 
 1. If you wanna add new data into database, just enable the system and let system take a photo and copy the pool6.txt which is the feature file under caffe/models/face_id/features to Face_identification_Raspberry_pi/database/your_model_name/
 
-## Results
+## example for Switch the extraction model and Add new data into database
 
 
 
