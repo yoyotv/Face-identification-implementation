@@ -5,7 +5,7 @@
 
 Using the caffe engine to extract the feature.
 
-Combined with the c++ in order to implement an application on Raspberry-pi to identify the face.
+Combined with the c++ in order to implement an application on Raspberry-pi identify the face.
 
 It is able to switch the model to increase the performance. e.g. Resnet, Mobilenet.
 
