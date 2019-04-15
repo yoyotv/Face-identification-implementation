@@ -1,0 +1,1 @@
+/home/pi/Desktop/Face_identification_Raspberry_pi/Current/Cropped_face_1.jpg 0
