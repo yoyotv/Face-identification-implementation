@@ -34,10 +34,13 @@ You have to install
 
 4. Place fold "Face_identification_Raspberry_pi" under Desktop
 
-Finished!
+5. Finished!
 
-## Try 
+## Tutorial
 
+```
+sh run.sh
+```
 
 ## Results
 
