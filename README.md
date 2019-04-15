@@ -28,9 +28,13 @@ You have to install
   # Make sure to clone with --recursive
   git clone --recursive https://github.com/yoyotv/Raspberry.git
   ```
+2. Replace the original caffe/tools/extract_feature.cpp with the new extract_feature.cpp file
 
+3. Add the face_id fold under caffe/models
 
+4. Place fold "Face_identification_Raspberry_pi" under Desktop
 
+Finished!
 
 ## Try 
 
