@@ -67,7 +67,7 @@ sh run.sh
 e.g.  
 ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_mobilenet_without_mirror_train_iter_220000.caffemodel /home/pi/caffe/models/face_id/val.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
 ```
-into 
+   into 
 ```
  ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/name_of_model.caffemodel /home/pi/caffe/models/face_id/val.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
 ```
