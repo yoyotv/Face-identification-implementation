@@ -4,7 +4,7 @@ layer {
   type: "ImageData"
   top: "data"
   top: "label"
-  data_param {
+  image_data_param {
     source: "/home/pi/caffe/models/face_id/file_list.txt"
     batch_size: 1
   }
