@@ -36,7 +36,7 @@ do
 
   cd
   cd caffe
-  ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_mobilenet_256_train_iter_220000.caffemodel /home/pi/caffe/models/face_id/mobilenet_val_256.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
+  ./build/tools/extract_features.bin /home/pi/caffe/models/face_id/caffe_mobilenet_256_train_iter_240000.caffemodel /home/pi/caffe/models/face_id/mobilenet_val_256.prototxt pool6 /home/pi/caffe/models/face_id/features 1 txt
   cd
   cd Desktop/Face_identification_Raspberry_pi
 
