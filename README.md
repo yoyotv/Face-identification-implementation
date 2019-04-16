@@ -26,7 +26,7 @@ You have to install
 1. Clone the repository
   ```Shell
   # Make sure to clone with --recursive
-  git clone --recursive https://github.com/yoyotv/Raspberry.git
+  git clone https://github.com/yoyotv/Raspberry-implementation.git
   ```
 2. Replace the original caffe/tools/extract_feature.cpp with the new extract_feature.cpp file
 
@@ -43,7 +43,7 @@ You have to install
 1. First of all, run
 
 ```
-sh run.sh
+sh Desktop/Face_identification_Raspberry_pi/run.sh
 ```
 2. Shell will compile evaluate.cpp and detect.cpp, after that it will create two folders named Record and Current, respectively.
 
