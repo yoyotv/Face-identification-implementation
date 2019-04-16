@@ -107,6 +107,10 @@ into
   
 * https://youtu.be/b5_Cw5E8aCk
 
+## Models
+
+https://drive.google.com/open?id=18LOMbMRIF2w6etZaqH3X9DfTnhorMWIs
+
 ## Anything else?
 
 * Train more models to play.
