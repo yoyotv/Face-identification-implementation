@@ -93,6 +93,8 @@ into
 
 4. Open evaluate.cpp and modify the const variable "feature_dim" and "model" to 2048 and "Resnet_50", respectively.
 
+5. Place caffe/models/face_id/features/pool6.txt under Face_identification_Raspberry_pi/database/Resnet_50/.
+
 ## Demo
 
 * The performance of model "mobilenet_0.25" is not good, it is trained by [CASIA-webface](https://arxiv.org/pdf/1411.7923.pdf). The top-1 accurancy is only 72%. In the demo video, the L2 distance between different database face is closed. 
