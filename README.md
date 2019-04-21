@@ -107,6 +107,10 @@ into
   
 * The performance of Mobilenet_0.25_1 is so poor that use other networks will be a better choice.   
   
+* I want the model as small as possible, but is seems difficult to reach the balance between performance and model size.
+
+* In order to run as fast as possible, [MTCNN](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf) is not applied, this might be the reason why causing the performance bad.
+
 * https://youtu.be/b5_Cw5E8aCk
 
 ## Models
