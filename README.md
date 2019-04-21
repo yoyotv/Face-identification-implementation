@@ -105,6 +105,8 @@ into
 
 * The L2 distance will be more significant if change the model to e.g. Resnet.
   
+* The performance of Mobilenet_0.25_1 is so poor that use other networks will be a better choice.   
+  
 * https://youtu.be/b5_Cw5E8aCk
 
 ## Models
