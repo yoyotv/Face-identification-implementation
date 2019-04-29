@@ -5,6 +5,10 @@
 
 Using the caffe engine to extract the feature.
 
+This repository does not aplly the caffe deploy.
+
+In stead of the common way that extracts model feature in caffe [method](https://github.com/BVLC/caffe/wiki/Using-a-Trained-Network:-Deploy), I modify caffe/tools/extract_features.cpp to save feature in form txt directly.
+
 Combined with the c++ in order to implement an application on Raspberry-pi identify the face.
 
 It is able to switch the model to increase the performance. e.g. Resnet, Mobilenet.
