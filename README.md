@@ -16,6 +16,10 @@ It is able to switch the model to increase the performance. e.g. Resnet, Mobilen
 Here is the flow chart.
 
    <img src="https://raw.githubusercontent.com/yoyotv/Raspberry/master/pictures/flow_chart.jpg" >
+   
+<p align="center">
+  <img src = "https://raw.githubusercontent.com/yoyotv/Face-identification-implementation/master/pictures/demo_gif.gif">
+</p>
  
 ## GET started
 
@@ -60,12 +64,6 @@ sh Desktop/Face_identification_Raspberry_pi/run.sh
 6. If the system identified the face successfully, the log in information and the face will be recorded into log.txt and fold "Record", respectively.
 
 7. Whether the system identified the face successfully or not, the system will go back to 3.
-
-It sould look like this
-
-<p align="center">
-  <img src = "https://raw.githubusercontent.com/yoyotv/Face-identification-implementation/master/pictures/demo_gif.gif">
-</p>
 
 ## Switch the extraction model 
 
