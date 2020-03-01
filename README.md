@@ -20,6 +20,8 @@ Here is the flow chart.
 <p align="center">
   <img src = "https://raw.githubusercontent.com/yoyotv/Face-identification-implementation/master/pictures/demo_gif.gif">
 </p>
+
+P.S. Down below has a clearer demo video.
  
 ## GET started
 
